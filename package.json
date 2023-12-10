@@ -1,0 +1,16 @@
+{
+  "name": "servidorweb",
+  "version": "1.0.0",
+  "description": "Levantamiento de de backend, donde se muestra diferente información en diferentes rutas, se presentara información del grupo de trabajo, de los integrantes y de unos productos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
